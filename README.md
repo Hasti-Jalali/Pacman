@@ -2,7 +2,7 @@
 
 Project [Link](http://ai.berkeley.edu/project_overview.html)
 
-![](./img/pacman.png)
+![](./gif/pacman_game.gif)
 
 Sections Of the Project Covered are:
 
